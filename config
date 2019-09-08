@@ -1,0 +1,12 @@
+[Base]
+Project: ./
+[Data]
+RawData: raw_data
+Bytecode: dataset/implementations/bytecode/
+Implementations: dataset/implementations/
+Dataset: dataset
+Assets: dataset/implementations/assets/
+Manifest: dataset/feature_model/total_manifest.json
+Dict: ./dict
+Extract: /media/disk3/git_projects/packer_fuzzy/extract/
+Total: dataset/implementations/total/
