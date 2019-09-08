@@ -8,6 +8,6 @@ By sharing this work, we hope to motivate other researchers on finding interesti
 
 Just install Jupyter notebook and look at the config files.
 
-# THIS WORK IS MOTIVATED BY THE FOLLOWING RESEARCH: 
+## THIS WORK IS MOTIVATED BY THE FOLLOWING RESEARCH: 
  + APKiD: Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android (by RedNaga group)
  + Using Entropy Analysis to Find Encrypted and Packed Malware (by Robert Lyda and James Hamrock)
